@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: ElenaTrifonova
+Package-Name: lab5
+Main-Class: Main
+Class-Path: lab5\.idea\libraries\com_google_code_gson_gson_2_8_0.xml
